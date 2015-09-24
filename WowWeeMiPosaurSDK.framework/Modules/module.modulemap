@@ -1,0 +1,6 @@
+framework module WowWeeMiPosaurSDK {
+  umbrella header "WowWeeMiPosaurSDK.h"
+
+  export *
+  module * { export * }
+}
