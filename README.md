@@ -1,4 +1,3 @@
-# MiPosaur-iOS-SDK
 WowWee MiPosaur iOS SDK
 ================================
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/WowWeeLabs/MiPosaur-iOS-SDK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -213,4 +212,3 @@ Projects using this SDK
 ---------------------------------
 * [WowWee MiPosaur Official App](https://itunes.apple.com/hk/app/miposaur/id982095901?mt=8) - Official app developed by WowWee using this SDK.
 * Send us a pull request to add your app here
-MiPosaur-iOS-SDK
