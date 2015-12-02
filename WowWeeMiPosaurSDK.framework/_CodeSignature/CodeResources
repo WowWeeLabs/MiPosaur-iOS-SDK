@@ -38,15 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		niehamRbGszDhEMsNS29QJG/aoQ=
+		lgzFVwy8T6eRaUDyCc6GiJuObJg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		iCadYXf5mmKgqpgKwhC2nZ/zO2A=
-		</data>
-		<key>embedded.mobileprovision</key>
-		<data>
-		JN9CHxZqsnSFHtIm9+zWbrYkbcg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -86,10 +82,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		iCadYXf5mmKgqpgKwhC2nZ/zO2A=
-		</data>
-		<key>embedded.mobileprovision</key>
-		<data>
-		JN9CHxZqsnSFHtIm9+zWbrYkbcg=
 		</data>
 	</dict>
 	<key>rules</key>

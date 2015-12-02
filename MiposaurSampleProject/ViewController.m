@@ -91,9 +91,6 @@
     [self.miposaur miposaurFalloverWithStyle:kMiposaurPositionUpright]; //kMipPositionFaceDown
 }
 
-- (IBAction)drivePressed:(id)sender {
-    
-}
 
 #pragma mark - MiposaurRobotFinder Notification
 - (void)miposaurFoundNotification:(NSNotification *)note {
@@ -155,7 +152,7 @@
     self.sitButton.enabled = NO;
     self.standButton.enabled = NO;
     self.miposaur = nil;
-    
+    [[MiposaurRobotFinder sharedInstance] clearFoundMiposaurList];
     [[MiposaurRobotFinder sharedInstance] scanForMiposaurs];
 }
 
