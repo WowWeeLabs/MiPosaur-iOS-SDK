@@ -144,7 +144,7 @@
 }
 
 - (void) MiposaurDeviceDisconnected:(MiposaurRobot *)mip error:(NSError *)error {
-    self.miposaurStatusLabel.text = [NSString stringWithFormat:@"Disconnected from MiP"];
+    self.miposaurStatusLabel.text = [NSString stringWithFormat:@"Disconnected from MiPosaur"];
     self.playSoundButton.enabled = NO;
     self.changeRGBColourButton.enabled = NO;
     self.falloverButton.enabled = NO;
