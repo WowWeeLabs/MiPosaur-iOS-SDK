@@ -12,6 +12,26 @@
 		<data>
 		00p2Oo0CfnjY0d4dvHq5XTS5ps4=
 		</data>
+		<key>Headers/MipCommandValues.h</key>
+		<data>
+		R8s8Hek+Ug0yiTzFoKvUInnb5I8=
+		</data>
+		<key>Headers/MipEventManager.h</key>
+		<data>
+		eczDCdoWVTC+RwdQ80RhzxzcAz0=
+		</data>
+		<key>Headers/MipRobot.h</key>
+		<data>
+		bFkkn9oziUoN3ljoiQ+jDesSSkI=
+		</data>
+		<key>Headers/MipRobotFinder.h</key>
+		<data>
+		rQDAKQZpCo8MVnzlggnjusbs2A0=
+		</data>
+		<key>Headers/MipRobotSound.h</key>
+		<data>
+		CjAO8UyLlhbfGPGIqr2tPSh/dIQ=
+		</data>
 		<key>Headers/MiposaurCommandValues.h</key>
 		<data>
 		Nd8Gaj0idO0plgYq8FCMRaZ748Y=
@@ -34,11 +54,11 @@
 		</data>
 		<key>Headers/WowWeeMiPosaurSDK.h</key>
 		<data>
-		S7QFtBTo7VZxcRuSEKHtQ2tr/3U=
+		yQgaTcg8vOMiezeiHk/xEiIZwJo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lgzFVwy8T6eRaUDyCc6GiJuObJg=
+		H6iKeIwRu+aCJJDi0nJZleuDVVM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,6 +75,26 @@
 		<data>
 		00p2Oo0CfnjY0d4dvHq5XTS5ps4=
 		</data>
+		<key>Headers/MipCommandValues.h</key>
+		<data>
+		R8s8Hek+Ug0yiTzFoKvUInnb5I8=
+		</data>
+		<key>Headers/MipEventManager.h</key>
+		<data>
+		eczDCdoWVTC+RwdQ80RhzxzcAz0=
+		</data>
+		<key>Headers/MipRobot.h</key>
+		<data>
+		bFkkn9oziUoN3ljoiQ+jDesSSkI=
+		</data>
+		<key>Headers/MipRobotFinder.h</key>
+		<data>
+		rQDAKQZpCo8MVnzlggnjusbs2A0=
+		</data>
+		<key>Headers/MipRobotSound.h</key>
+		<data>
+		CjAO8UyLlhbfGPGIqr2tPSh/dIQ=
+		</data>
 		<key>Headers/MiposaurCommandValues.h</key>
 		<data>
 		Nd8Gaj0idO0plgYq8FCMRaZ748Y=
@@ -77,7 +117,7 @@
 		</data>
 		<key>Headers/WowWeeMiPosaurSDK.h</key>
 		<data>
-		S7QFtBTo7VZxcRuSEKHtQ2tr/3U=
+		yQgaTcg8vOMiezeiHk/xEiIZwJo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

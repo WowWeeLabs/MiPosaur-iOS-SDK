@@ -16,6 +16,12 @@ FOUNDATION_EXPORT const unsigned char WowWeeMiPosaurSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <WowWeeMiPosaurSDK/PublicHeader.h>
 
+#import <WowWeeMiPosaurSDK/MipRobot.h>
+#import <WowWeeMiPosaurSDK/MipRobotFinder.h>
+#import <WowWeeMiPosaurSDK/MipRobotSound.h>
+#import <WowWeeMiPosaurSDK/MipEventManager.h>
+
+
 #import <WowWeeMiPosaurSDK/MiposaurCommandValues.h>
 #import <WowWeeMiPosaurSDK/BluetoothRobot.h>
 #import <WowWeeMiPosaurSDK/BluetoothRobotFinder.h>
